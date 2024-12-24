@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+section{
+    font-family: 'Ubuntu';
+    color: #ffffff;
+}
+
+.description{
+    font-family: 'Poppins';
+}
+
+.circle{
+    border: 3px dashed #ae3ace;
+    z-index: 10;
+    animation: animateCircle 15s linear infinite;
+}
+
+@keyframes animateCircle {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(90deg);
+    }
+}
+
+.buttons{
+    font-family: "Poppins";
+}
+

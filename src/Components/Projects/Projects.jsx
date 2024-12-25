@@ -84,7 +84,7 @@ const Projects = () => {
               </div>
               <div className='mt-5'>
                 <h3 className='text-white font-bold text-[24px] flex justify-between items-center poppins'>Shopping Cart
-                  <a href="https://github.com/AnuragRajput1202/CHATBUDD" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
+                  <a href="https://github.com/uditgour/shopping-cart" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
                 </h3>
                 <p className='mt-2 text-secondary text-[14px] text-[#ABB2BF] ubuntu'>Developed a responsive shopping cart web application with user authentication, product management, real-time price calculations and seamless checkout functionality for both buyer and seller.</p>
               </div>
@@ -111,7 +111,7 @@ const Projects = () => {
               </div>
               <div className='mt-5'>
                 <h3 className='text-white font-bold text-[24px] flex justify-between  items-center'>Weather App
-                  <a href="https://github.com/AnuragRajput1202/iNoteBook" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
+                  <a href="https://github.com/uditgour/Weather-App" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
                 </h3>
                 <p className='mt-2 text-secondary text-[14px] text-[#ABB2BF]'>Developed a user-friendly weather application that provides real-time and forecasted weather data for any city using an Open Weather API. Users can search weather conditions by city name or geographic coordinates.</p>
               </div>
@@ -140,7 +140,7 @@ const Projects = () => {
 
               <div className='mt-5'>
                 <h3 className='text-white font-bold text-[24px] flex justify-between items-center poppins'>Personal Portfolio
-                  <a href="https://github.com/AnuragRajput1202/personal-portfolio" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
+                  <a href="https://github.com/uditgour/portfolio" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
                 </h3>
                 <p className='mt-2 text-secondary text-[14px] text-[#ABB2BF]'>This is my portfolio website. In this project, I have shown my entire IT career so far. I have majorly worked on frontend, learnt some advanced animations and libraries of React and implemented them.</p>
               </div>

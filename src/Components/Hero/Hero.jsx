@@ -18,7 +18,7 @@ const Hero = () => {
           <p className='description text-[#ABB2BF] mt-2 text-xl'>Software Developer</p>
           <p className='description  mt-2 text-sm'>I excel at creating <br />interactive Web Applications and APIs</p>
           <div className="buttons flex max-[1166px]:flex-col max-[1166px]:items-start mt-32 items-center gap-12 max-md:hidden">
-            <a href="https://docs.google.com/document/d/16k6m6Wj3ebO_KCdI7ADz2Cgb2g1m21R2JhwdXaVbumw/edit?usp=drive_link" target="_blank" rel="noopener noreferrer"><button className='text-2xl max-lg:text-xl border border-[#C778DD] p-4 rounded-xl hover:bg-[#C778DD]'>Download CV</button></a>
+            <a href="https://docs.google.com/document/d/1fP2MYeURAqu6YqmVbf8xaDfCchmjZbd6FQBU8UQ3nHc/edit?tab=t.0" target="_blank" rel="noopener noreferrer"><button className='text-2xl max-lg:text-xl border border-[#C778DD] p-4 rounded-xl hover:bg-[#C778DD]'>Download CV</button></a>
             <a href="https://github.com/uditgour" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} size='2xl' beat className='rounded-full max-[1166px]:mx-16 hover:text-[#C778DD] cursor-pointer' /></a>
             <a href="https://www.linkedin.com/in/udit-gour-3432621b7/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size='2xl' beat className='max-[1166px]:mx-16 hover:text-[#C778DD] cursor-pointer' /></a>
           </div>
@@ -44,7 +44,7 @@ const Hero = () => {
 
           </div>
           <div className="mobile-buttons hidden max-md:flex absolute bottom-24 items-center gap-5 text-lg">
-          <a href="https://docs.google.com/document/d/16k6m6Wj3ebO_KCdI7ADz2Cgb2g1m21R2JhwdXaVbumw/edit?usp=drive_link" target="_blank" rel="noopener noreferrer"><button className='border border-[#C778DD] p-2 rounded-lg hover:bg-[#C778DD]'>Download CV</button></a>
+          <a href="https://docs.google.com/document/d/1fP2MYeURAqu6YqmVbf8xaDfCchmjZbd6FQBU8UQ3nHc/edit?tab=t.0" target="_blank" rel="noopener noreferrer"><button className='border border-[#C778DD] p-2 rounded-lg hover:bg-[#C778DD]'>Download CV</button></a>
             <a href="https://github.com/uditgour" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} size='lg' beat className='rounded-full hover:text-[#C778DD]' /></a>
             <a href="https://www.linkedin.com/in/udit-gour-3432621b7/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size='lg' beat className='hover:text-[#C778DD] cursor-pointer' /></a>
           </div>
